@@ -1,3 +1,9 @@
+All tests passed.
+
+#### Try it out!
+
+If you want to try the converter, open [this link on Replit](https://replit.com/@EFEA/EFE-probability-calculator#test_module.py).
+
 ### Assignment
 
 Suppose there is a hat containing 5 blue balls, 4 red balls, and 2 green balls. What is the probability that a random draw of 4 balls will contain at least 1 red ball and 2 green balls? While it would be possible to calculate the probability using advanced mathematics, an easier way is to write a program to perform a large number of experiments to estimate an approximate probability.
